@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HealthKeep - 您的智能健康档案",
+  "description": "一个极简主义的个人医疗记录管理应用，支持出入院记录、药物、费用及检验结果管理，并利用 AI 自动生成健康摘要。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
